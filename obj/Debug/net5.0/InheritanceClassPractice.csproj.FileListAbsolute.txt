@@ -1,0 +1,16 @@
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\InheritanceClassPractice.exe
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\InheritanceClassPractice.deps.json
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\InheritanceClassPractice.runtimeconfig.json
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\InheritanceClassPractice.runtimeconfig.dev.json
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\InheritanceClassPractice.dll
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\ref\InheritanceClassPractice.dll
+C:\Users\mattg\workspace\InheritanceClassPractice\bin\Debug\net5.0\InheritanceClassPractice.pdb
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.csprojAssemblyReference.cache
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.AssemblyInfoInputs.cache
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.AssemblyInfo.cs
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.dll
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\ref\InheritanceClassPractice.dll
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.pdb
+C:\Users\mattg\workspace\InheritanceClassPractice\obj\Debug\net5.0\InheritanceClassPractice.genruntimeconfig.cache
